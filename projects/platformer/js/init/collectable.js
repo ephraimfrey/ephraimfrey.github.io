@@ -39,7 +39,7 @@
         collectable.create(type.kennedi, 500, 90, 10, 0);
         collectable.create(type.steve, 700, 350, 100, 0.1);
         collectable.create(type.steve, 700, 350, 100, 0.1);
-        collectable.create(type.steve, 800, 90, 100, 1);
+      
         collectable.create(type.kennedi, 490, 600, 0, 0);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
